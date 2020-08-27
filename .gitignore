@@ -45,3 +45,4 @@ xcuserdata
 Pods/
 
 Carthage/Build
+.build
